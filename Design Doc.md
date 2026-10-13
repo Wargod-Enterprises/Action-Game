@@ -30,11 +30,10 @@ This game split off from the stealth "Agent" concept (`Projects\Agent Game`). Th
 ### Weapons, melee & controls
 Full detail lives in **[Combat & Controls](Combat%20%26%20Controls.md)**. Summary:
 - **Buttons:** Melee, Shoot (hold to charge), Jump, Dash, L (shot weapons), R (melee weapons), d-pad.
-- **Switching:** tap L or R to cycle quick slots; hold to open that weapon menu.
+- **Switching:** tap L or R to cycle quick slots during action (the game keeps running). Hold to open that weapon menu for setting up before a fight (the game fully pauses).
 - **Ranged:** a straight default shot plus weapon types by trajectory (stream, spread, homing, placed, arc, boomerang, ricochet). Charge works on any equipped shot.
 - **Melee:** dash body attack plus melee weapons, with a beat-'em-up moveset on one button.
 - **Separate from both:** shield (defense) and claw (grapple).
-- **Unresolved:** does holding L or R fully pause the game, or slow it down? See open decision #8.
 
 ---
 
@@ -113,8 +112,7 @@ Occasional shmup-style sections, like Contra's perspective changes:
 5. **What unlocks hidden rooms:** movement abilities, NPC rewards, something else?
 6. **Vehicle progression:** separate upgrades, or shared with the player's stats?
 7. **Title:** undecided.
-8. **Hold menu: pause or slowdown?** On 10/13 David chose slowdown ("no time stop, slowdown is fine"), but the Combat & Controls handoff says the hold menu fully pauses.
-9. **Combat open questions:** see section 9 of [Combat & Controls](Combat%20%26%20Controls.md) (effects, quick-slot count, melee roster, weapon energy, shield button, how weapons are acquired).
+8. **Combat open questions:** see section 9 of [Combat & Controls](Combat%20%26%20Controls.md) (effects, quick-slot count, melee roster, weapon energy, shield button, how weapons are acquired).
 
 ---
 

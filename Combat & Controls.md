@@ -92,13 +92,16 @@ real beat-'em-up feel even though jump and weapons have separate buttons.
 
 Layout: quick slots in a row across the top; full weapon list vertical below.
 
+[DECIDED] **Two jobs, two speeds:** tap-cycling (§4) is for swapping in the
+middle of Contra-style action and never stops the game. The hold menu is for
+setting up a loadout before a fight, so it **fully pauses** (no slow-motion).
+
 [PROPOSED] Menu behavior:
 - **Release L/R** confirms and unpauses (no confirm/cancel buttons needed).
 - Menu opens with the currently equipped weapon highlighted, so an instant
   release changes nothing.
 - Choosing a weapon already in another slot swaps the two (no duplicates).
 - Show a short description/icon for the highlighted weapon.
-- Full pause (not slow-motion).
 
 ---
 
