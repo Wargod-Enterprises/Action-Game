@@ -1,0 +1,5 @@
+# Keep the design docs in the repo but off the GitHub Pages site.
+exclude:
+  - README.md
+  - Design Doc.md
+  - Brainstorm History.md
