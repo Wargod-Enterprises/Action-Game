@@ -27,6 +27,14 @@ This game split off from the stealth "Agent" concept (`Projects\Agent Game`). Th
 
 **Feel:** aggressive and up close. Dash and melee should be fun enough that you *want* to get in close, with the buster and charge shot as what you fall back on for tougher armor.
 
+### Weapon & melee switching (idea, undecided)
+Multiple weapons and multiple melee styles, with L for weapons and R for melee. Two options:
+- **Hold menu:** hold L1 (weapons) or R1 (melee) to open a menu and pick with the d-pad. Time **slows down** while it's open (no full stop).
+- **SNES-style cycling:** tap L or R to scroll through weapons or melee styles; the current pick shows on screen.
+- *Claude's suggestion:* combine them, so a tap cycles and a hold opens the menu.
+
+Depends on how many weapons and melee styles there are, which depends on the weapons and armor work.
+
 ---
 
 ## Enemies: armor tiers
@@ -104,6 +112,7 @@ Occasional shmup-style sections, like Contra's perspective changes:
 5. **What unlocks hidden rooms:** movement abilities, NPC rewards, something else?
 6. **Vehicle progression:** separate upgrades, or shared with the player's stats?
 7. **Title:** undecided.
+8. **Weapons & melee styles:** how many of each, how they interact with armor tiers, and whether every weapon can charge. This decides the switching method (hold menu vs. cycling).
 
 ---
 
